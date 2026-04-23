@@ -1,3 +1,5 @@
 checkpoints/
 EuroSAT_RGB/
 outputs/
+**/pycache/
+**/*.pyc
